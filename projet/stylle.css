@@ -66,6 +66,7 @@ text-transform: none;
   padding:2rem 9%;
   box-shadow:0 .5rem 1rem black ;
   position: relative;
+  height: 100px;
 }
 .header-2.active{
   position: fixed;
@@ -95,7 +96,7 @@ color: #fff;
   font-size: 2rem;
   border-radius: .5rem;
   border:1rem solid black ;
-  padding: 8rem 1.5rem;
+  padding: 4rem 1.5rem;
   color: black;
   cursor: pointer;
   display: none;
