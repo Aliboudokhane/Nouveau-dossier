@@ -1,0 +1,54 @@
+.contact-section{
+    background-color:#017143 ;
+    padding: 40px 0;
+}
+.contact-section h1{
+    text-align: center;
+    color: #fff;
+}
+.border{
+    width:100px;
+    height:10px;
+    background: #fff;
+    margin: 40px auto;
+}
+.contact-form
+{
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+.contact-form-text
+{
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background-color: #111;
+    padding: 20px 40px;
+    outline:none;
+    color: #ddd;
+    transition: 0.5s;
+
+}
+
+.contact-form-btn
+{
+    float: right;
+    border: 0;
+    background: #fff;
+    color: #017143;
+    padding: 12px 50px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.aloulou {
+    text-align: center;
+}
+
+
+
